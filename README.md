@@ -28,7 +28,7 @@ $ source $GOPATH/src/github.com/nsoushi/mackerel-graph-annotation-bot/setup.sh <
 
 then you chan use following.
 ```
-$ graph-annotations -s 'Annotation title' ExampleRole1 ExampleRole2
+$ graph-annotations post -s 'Annotation title' ExampleRole1 ExampleRole2
 ```
 
 ## Post annotation via hubot
