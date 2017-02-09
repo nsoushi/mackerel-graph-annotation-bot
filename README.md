@@ -34,7 +34,7 @@ $ graph-annotations post -s 'Annotation title' ExampleRole1 ExampleRole2
 
 ## Post annotation via hubot
 
-See also [graph-annotations.coffee](https://github.com/nsoushi/mackerel-graph-annotation-bot/blob/master/hubot/scripts/graph-annotations.coffee) file.
+See also [graph-annotations.coffee](https://github.com/nsoushi/mackerel-graph-annotation-tool/blob/master/hubot/scripts/graph-annotations.coffee) file.
 This repository contains bot script. 
 If you include script to your bot, then you can post via bot that using following message.
 
