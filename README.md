@@ -1,6 +1,7 @@
 # mackerel-graph-annotation-bot
 
 This repository contains the commnd line tool for the [macarerel Graph Annotations](https://mackerel.io/api-docs/entry/graph-annotations).
+See also [release entry](https://mackerel.io/blog/entry/weekly/20170127).
 
 ## Usage
 ```
@@ -26,7 +27,7 @@ $ go get github.com/nsoushi/mackerel-graph-annotation-bot/mackerel/cmd/graph-ann
 $ source $GOPATH/src/github.com/nsoushi/mackerel-graph-annotation-bot/setup.sh <MACKEREL_API_KEY> <MACKEREL_SERVICE_NAME>
 ```
 
-then you chan use following.
+then you can use following.
 ```
 $ graph-annotations post -s 'Annotation title' ExampleRole1 ExampleRole2
 ```
