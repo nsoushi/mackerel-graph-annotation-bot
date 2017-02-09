@@ -1,4 +1,4 @@
-# mackerel-graph-annotation-bot
+# mackerel Graph Annotation tool
 
 This repository contains the commnd line tool for the [macarerel Graph Annotations](https://mackerel.io/api-docs/entry/graph-annotations).
 See also [release entry](https://mackerel.io/blog/entry/weekly/20170127).
