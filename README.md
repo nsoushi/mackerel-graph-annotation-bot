@@ -22,7 +22,7 @@ Flags:
 ## How to install
 
 ```
-$ go get github.com/nsoushi/mackerel-graph-annotation-bot/cmd/graph-annotations
+$ go get github.com/nsoushi/mackerel-graph-annotation-bot/mackerel/cmd/graph-annotations
 $ source $GOPATH/src/github.com/nsoushi/mackerel-graph-annotation-bot/setup.sh <MACKEREL_API_KEY> <MACKEREL_SERVICE_NAME>
 ```
 
